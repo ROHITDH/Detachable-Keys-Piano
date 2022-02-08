@@ -1,4 +1,6 @@
 # Detachable-Keys-Piano
+Note: For Demo and Download section, scroll down to end.
+
 ## 1. ABSTRACT
 Like all other fields, technology plays a crucial role in the musical world. 
 Piano being one of the undetachable members of this world has to improve for the dynamic growth of the field. 
