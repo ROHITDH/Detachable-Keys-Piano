@@ -193,7 +193,7 @@ plot v(out2)
   - For demo proteus is used since it requires Internet connection to upload data from circuit to the cloud.
 
 https://user-images.githubusercontent.com/44223447/152941079-f98747d9-9041-4570-9a5d-3cf15a5f7998.mp4
-
+(In this video, specific transistors are used, in the schematic download files, these are replaced by NMOS)
 
 7. ### Download
 Files | Download
