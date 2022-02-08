@@ -1,6 +1,17 @@
 # Detachable-Keys-Piano
 Note: For Demo and Download section, scroll down to end.
 
+## Table of Contents
+- [ABSTRACT](#1-abstract)
+- [METHODOLOGY](#2-methodology)
+- [THEORY](#3-theory)
+- [DESIGN AND IMPLEMENTATION](#4-design-and-implementation)
+- [DEMO](#5-demo)
+- [DOWNLOAD](#6-download)
+- [ABOUT TOOLS USED](#7-about-tools-used)
+- [ACKNOWLEDGEMENT](#8-acknowledgement)
+
+
 ## 1. ABSTRACT
 Like all other fields, technology plays a crucial role in the musical world. 
 Piano being one of the undetachable members of this world has to improve for the dynamic growth of the field. 
@@ -189,14 +200,14 @@ plot v(out2)
 </p>
 
 
-6. ### Demo
+## 5. DEMO
   - For demo proteus is used since it requires Internet connection to upload data from circuit to the cloud.
 
 https://user-images.githubusercontent.com/44223447/152941079-f98747d9-9041-4570-9a5d-3cf15a5f7998.mp4
 
 (In this video, specific transistors are used, in the schematic download files, these are replaced by NMOS)
 
-7. ### Download
+## 6. DOWNLOAD
 Files | Download
 --- | --- 
 **eSim: Schematic File** |  <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/esim_oscillator_and_opamp.zip"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
@@ -208,3 +219,15 @@ Files | Download
 **Report** |   <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/report-auto_genereted.pdf"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
 **Demo Video** |   <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/Detachable%20keys%20Piano%20-%20demo.mp4"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
 **WebApp Interface** |   <a href="https://dvrblacktech.pythonanywhere.com/detachablekeyspiano/greenleaves/">Requires Hardware/Proteus Files</a>
+
+## 7. TOOLS USED
+TOOLS | DESCRIPTION | DOWNLOAD
+--- | --- | ---
+**eSim EDA Tool** |  <a href="https://esim.fossee.in/home">Description</a> |  <a href="https://esim.fossee.in/downloads">Download</a>
+**SkyWater SKY130 PDK** |  <a href="https://skywater-pdk.readthedocs.io/en/main/">Description</a> |  <a href="https://github.com/google/skywater-pdk-libs-sky130_fd_pr/archive/f62031a1be9aefe902d6d54cddd6f59b57627436.zip">Download</a>
+**LTspice** |  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html">Description</a> |  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html">Download</a> 
+**ngspice** |  <a href="http://ngspice.sourceforge.net/">Description</a> |  <a href="http://ngspice.sourceforge.net/download.html">Download</a>
+
+## 8. ACKNOWLEDGEMENT
+
+[Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
