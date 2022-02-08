@@ -196,11 +196,12 @@ https://user-images.githubusercontent.com/44223447/152941079-f98747d9-9041-4570-
 7. ### Download
 Files | Download
 --- | --- 
-**eSim: Schematic File** |  <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
-**ngspice: Spice Code using Sky130pdk File** |  <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
-**LtSpice Files** | <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
-**Proteus File** |  <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
-**Node MCU, and Arduino Data Uploader Files** |   <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
-**Literature survey** | <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
-**Report** |   <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
-**Demo Video** |   <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**eSim: Schematic File** |  <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/esim_oscillator_and_opamp.zip"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**ngspice: Spice Code using Sky130pdk File** |  <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/ngspice%20simulation%20files.zip"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**LtSpice Files** | <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/LtSpice_files.zip"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Proteus File** |  <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/proteus_files.zip"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Node MCU, and Arduino Data Uploader Files** |   <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/arduino_nodemcu_codes.zip"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Literature survey** | <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/Detachable%20Keys%20Piano%20-%20oscillator%2C%20audio%20amplifier.pdf"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Report** |   <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/report-auto_genereted.pdf"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Demo Video** |   <a href="https://github.com/ROHITDH/Detachable-Keys-Piano/raw/main/Detachable%20keys%20Piano%20-%20demo.mp4"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**WebApp Interface** |   <a href="https://dvrblacktech.pythonanywhere.com/detachablekeyspiano/greenleaves/">Requires Hardware/Proteus Files</a>
