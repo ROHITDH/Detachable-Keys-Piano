@@ -189,6 +189,18 @@ plot v(out2)
 
 6. ### Demo
   - For demo proteus is used since it requires Internet connection to upload data from circuit to the cloud.
-  - Uploading Detachable keys Piano -- Do you know this__ must watch.mp4…
+
+https://user-images.githubusercontent.com/44223447/152941079-f98747d9-9041-4570-9a5d-3cf15a5f7998.mp4
+
 
 7. ### Download
+Files | Download
+--- | --- 
+**eSim: Schematic File** |  <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**ngspice: Spice Code using Sky130pdk File** |  <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**LtSpice Files** | <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Proteus File** |  <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Node MCU, and Arduino Data Uploader Files** |   <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Literature survey** | <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Report** |   <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
+**Demo Video** |   <a href="https://ibb.co/xLp9x4V"><img src="https://img.icons8.com/officel/40/000000/download--v1.png"/> </a>
