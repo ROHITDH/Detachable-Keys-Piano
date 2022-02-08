@@ -87,7 +87,7 @@ The complete design of this detachable keys piano can be subdivided into physica
     - Inductors act like a short circuit (f=0, XL=0)
 
 - Below waveform shows the _Transient Analysis_ of the circuit for variable capacitor value of 120nF. 
-- The frequency of the generated waveform is around 440 Hz with amplitude of 36mV for 5 volt input supply.
+- The frequency of the generated waveform is around 440 Hz with amplitude of around 200mV for 5 volt input supply by using nmos pair (sky130pdk) and around 36mv by using bc547bp transistors pair in place of nmos
 
      - #### Construction and Simulation using **Esim and Sky130 pdk**
             - Construction of this key package is done using Esim and Sky130 pdk is used for it's components.
