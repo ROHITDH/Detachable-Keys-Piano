@@ -231,4 +231,5 @@ TOOLS | DESCRIPTION | DOWNLOAD
 ## 8. ACKNOWLEDGEMENT
 
 [Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+
 [Sumanto Kar](https://www.linkedin.com/in/sumanto-kar-0424391a9), Sr. Project Technical Assistant, IITB
