@@ -9,7 +9,6 @@ Note: For Demo and Download section, scroll down to end.
 - [DEMO](#5-demo)
 - [DOWNLOAD](#6-download)
 - [ABOUT TOOLS USED](#7-about-tools-used)
-- [ACKNOWLEDGEMENT](#8-acknowledgement)
 
 
 ## 1. ABSTRACT
@@ -227,9 +226,3 @@ TOOLS | DESCRIPTION | DOWNLOAD
 **SkyWater SKY130 PDK** |  <a href="https://skywater-pdk.readthedocs.io/en/main/">Description</a> |  <a href="https://github.com/google/skywater-pdk-libs-sky130_fd_pr/archive/f62031a1be9aefe902d6d54cddd6f59b57627436.zip">Download</a>
 **LTspice** |  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html">Description</a> |  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html">Download</a> 
 **ngspice** |  <a href="http://ngspice.sourceforge.net/">Description</a> |  <a href="http://ngspice.sourceforge.net/download.html">Download</a>
-
-## 8. ACKNOWLEDGEMENT
-
-[Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
-
-[Sumanto Kar](https://www.linkedin.com/in/sumanto-kar-0424391a9), Sr. Project Technical Assistant, IITB
